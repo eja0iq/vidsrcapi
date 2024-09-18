@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/**/*.ts": {
+      "runtime": "deno",
+      "maxDuration": 10
+    }
+  }
+}
